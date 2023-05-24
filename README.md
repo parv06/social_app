@@ -56,3 +56,6 @@ Start the Docker container:
 
 ``` docker-compose up```
 The API will be accessible at http://localhost:8000/.
+
+
+For postmen collection. Please see the root direcotory.
